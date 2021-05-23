@@ -1,10 +1,9 @@
 # ArduinoBlinkingLED
 ### Wiring
-
 ![header image](https://github.com/KKKirilov/ArduinoBlinkingLED/blob/master/IMG_20200710_234805.jpg)
 
 ### Code
-```
+```C++
 void setup() {
   pinMode(5,OUTPUT);
 }
