@@ -1,6 +1,6 @@
 # ArduinoBlinkingLED
 ### Wiring
-![header image](https://github.com/KKKirilov/ArduinoBlinkingLED/blob/master/IMG_20200710_234805.jpg)
+![header image](https://github.com/KKKirilov/ArduinoBlinkingLED/blob/master/ImageWiring.jpg)
 
 ### Code
 ```C++
